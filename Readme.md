@@ -38,6 +38,10 @@ The API provides the following endpoints:
 
 * `POST /api/purchase_orders/{po_number}/acknowledge/`: Acknowledge a purchase order
 
+### Admin Username Password
+* Admin: Vendor
+* Password: 123456
+
 ## Setup Instructions
 
 1. Clone the repository: `git clone https://github.com/your-username/django-rest-api.git`
